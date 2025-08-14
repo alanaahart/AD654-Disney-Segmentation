@@ -19,5 +19,5 @@ This project is divided into two main sections. The first involves conducting ex
 
 Click the badge below to launch the notebook directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alanaahart/bergen-city-bike-forecasting/blob/main/Bergen-.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alanaahart/AD654-Disney-Segmentation/blob/main/AD654-Customer-Segmentation-Ahart.ipynb) 
 
